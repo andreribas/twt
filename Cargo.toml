@@ -1,0 +1,9 @@
+[package]
+name = "twt"
+version = "0.1.0"
+edition = "2021"
+authors = ["André Ribas <andreribas@gmail.com"]
+license = "BSD-2-Clause"
+description = "A fast command line short message social network"
+
+[dependencies]
